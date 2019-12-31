@@ -1,5 +1,5 @@
 <a href="https://github-battle-v2.firebaseapp.com/">
-	<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/Screen%20Shot%202019-12-31%20at%202.25.00%20PM.png?alt=media&token=2f9567cd-a1b9-487c-b1c1-e30b87726df8" title="main-battle-screenshot" alt="main-battle-screenshot" width="300">
+	<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/battle-main-screenshot.png?alt=media&token=1b76db7c-02df-4c84-b8f1-d3f400a78ef1" title="main-battle-screenshot" alt="main-battle-screenshot">
 </a>
 
 # Github Battle App
@@ -8,11 +8,11 @@
 
 > Technology used: React, AJAX, API, HTML5, SASS, CSS3 ES6, Firebase
 
-<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/Screen%20Shot%202019-12-31%20at%202.23.18%20PM.png?alt=media&token=85092f24-46db-472b-9477-c446b280ca9d" title="popular-screenshot" alt="popular-screenshot">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/battle-screenshot.png?alt=media&token=5f985ae1-d69e-4e5d-be3f-ec903f4d9a70" title="popular-screenshot" alt="popular-screenshot">
 
 ---
 
-<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/Screen%20Shot%202019-12-31%20at%202.24.10%20PM.png?alt=media&token=43c85b9b-a775-489d-99fa-b4f0a3c6549f" title="battle-screenshot" alt="battle-screenshot">
+<img src="https://firebasestorage.googleapis.com/v0/b/github-battle-v2.appspot.com/o/popular-screenshot.png?alt=media&token=8f53c16f-39b0-456c-8ff9-8d376414d08a" title="battle-screenshot" alt="battle-screenshot">
 
 ## Installation / Run Commands
 
